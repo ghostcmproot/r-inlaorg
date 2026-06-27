@@ -2,7 +2,7 @@
 
 
 
-<h1><title>Welcome to nginx!</title><h1>
+<h1> Welcome to nginx! <h1>
 <h2>Welcome to nginx!</h2>
 <p>If you see this page, the nginx web server is successfully installed and
 working. Further configuration is required.</p>
